@@ -9,7 +9,7 @@ OpenCV
 pip install opencv-python
 
 if using anaconda
-activate [name_of_virtualenvironment]
+source activate [name_of_virtualenvironment]
 conda install opencv 
 ```
 
